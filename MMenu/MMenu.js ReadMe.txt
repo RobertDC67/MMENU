@@ -1,3 +1,0 @@
-
-MMenu.js  -  A JavaScript plugin for creating app look-alike off-canvas menus with sliding submenus and loads of other options.
-
